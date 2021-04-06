@@ -1,0 +1,5 @@
+package com.cg.vms.exception;
+
+public class AdminNotFoundException {
+
+}

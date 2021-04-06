@@ -1,0 +1,5 @@
+package com.cg.vms.model;
+
+public class Admin {
+
+}

@@ -1,0 +1,5 @@
+package com.cg.candidate.controller;
+
+public class CandidateController {
+
+}
